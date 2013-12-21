@@ -49,6 +49,7 @@ figure(); tic;
 C.display(); xlabel(sprintf('Time: %g', toc));
 
 %% 5x5
+C.max_relgap = 1e-5;
 C.patch_size = 5;
 figure(); tic;
 [L,e,lb] = C.solve();

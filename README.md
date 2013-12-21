@@ -10,7 +10,7 @@ The code has been tested on
 * Matlab 2013a with GCC 4.8 on Ubuntu 13.10.
 * Matlab 2013a with Visual Studio 2013 on Windows 7.
 
-Usage
+Getting started
 ----------
 Two example are included in /examples
 * binary_deconvolution_figure_12.m

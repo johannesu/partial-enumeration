@@ -28,6 +28,7 @@ The binary deconvolution problem is also optimized with
 
 References
 ----------
-1. [Partial Enumeration and Curvature Regularization](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=584)
-Carl Olsson, Johannes Ulén, Yuri Boykov and Vladimir Kolmogorov
+1. Carl Olsson, Johannes Ulén, Yuri Boykov and Vladimir Kolmogorov 
+ [Partial Enumeration and Curvature Regularization]
+(http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=584)
 International Conference on Computer Vision. 2013.

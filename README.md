@@ -10,7 +10,7 @@ The code has been tested on
 * Matlab 2013a with GCC 4.8 on Ubuntu 13.10.
 * Matlab 2013a with Visual Studio 2013 on Windows 7.
 
-Usage
+Getting started
 ----------
 Two example are included in /examples
 * binary_deconvolution_figure_12.m
@@ -28,6 +28,7 @@ The binary deconvolution problem is also optimized with
 
 References
 ----------
-1. [Partial Enumeration and Curvature Regularization](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=584)
-Carl Olsson, Johannes Ulén, Yuri Boykov and Vladimir Kolmogorov
+1. Carl Olsson, Johannes Ulén, Yuri Boykov and Vladimir Kolmogorov 
+ [Partial Enumeration and Curvature Regularization]
+(http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=584)
 International Conference on Computer Vision. 2013.

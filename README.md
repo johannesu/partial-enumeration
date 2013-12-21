@@ -2,7 +2,8 @@ This is a MatLab/C++ library of our ICCV 2013 paper [1].
 
 Installation
 ----------
-You will need MATLAB and a c++ compiler. Setup matlab using mex -setup.
+MATLAB and a c++ compiler is needed. 
+Setup matlab using mex -setup.
 All files are compiled automatically.
 
 The code has been tested on
@@ -15,15 +16,15 @@ Two example are included in /examples
 * binary_deconvolution_figure_12.m
 * curvature_segmentation_figure_10.m
 
-Included solver
+Included solvers
 ----------
-The partial enumartion reformulation can be optimized with
-many different optimizer, included is:
+The partial enumartion reformulation is optimized with
 
-[Vladimir Kolmogorovs' TRW-S implementation](http://pub.ist.ac.at/~vnk/papers/TRW-S.html)
+* [Vladimir Kolmogorovs' TRW-S implementation](http://pub.ist.ac.at/~vnk/papers/TRW-S.html).
 
-Roof duality is also included as a comparison in the binary deconvolution example.
-[Vladimir Kolmogorovs' Roof duality implementation](http://pub.ist.ac.at/~vnk/software.html)
+The binary deconvolution problem is also optimized with
+
+* [Vladimir Kolmogorovs' Roof duality implementation](http://pub.ist.ac.at/~vnk/software.html).
 
 References
 ----------

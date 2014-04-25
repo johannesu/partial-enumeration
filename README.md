@@ -1,6 +1,6 @@
 This is a MatLab/C++ library of our ICCV 2013 paper [1].
 
-![ScreenShot](img/cameraman5x5.png)
+![ScreenShot](screenshot/cameraman5x5.png)
 
 Curvature regularization using 5x5 patches.
 

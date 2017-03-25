@@ -34,4 +34,4 @@ References
 ----------
 1. [Partial Enumeration and Curvature Regularization](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=584)<br />
 International Conference on Computer Vision (ICCV),  2013.<br />
-_Carl Olsson, Johannes Ulén, Yuri Boykov and Vladimir Kolmogorov_.
+_Carl Olsson, Johannes Ulén, Yuri Boykov, and Vladimir Kolmogorov_.
